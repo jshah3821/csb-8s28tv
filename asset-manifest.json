@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jshah3821.github.io/csb-8s28tv/static/css/main.b0901594.chunk.css",
+    "main.js": "https://jshah3821.github.io/csb-8s28tv/static/js/main.aa38a568.chunk.js",
+    "main.js.map": "https://jshah3821.github.io/csb-8s28tv/static/js/main.aa38a568.chunk.js.map",
+    "runtime-main.js": "https://jshah3821.github.io/csb-8s28tv/static/js/runtime-main.54e4488e.js",
+    "runtime-main.js.map": "https://jshah3821.github.io/csb-8s28tv/static/js/runtime-main.54e4488e.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://jshah3821.github.io/csb-8s28tv/static/css/2.cbedb215.chunk.css",
+    "static/js/2.04578128.chunk.js": "https://jshah3821.github.io/csb-8s28tv/static/js/2.04578128.chunk.js",
+    "static/js/2.04578128.chunk.js.map": "https://jshah3821.github.io/csb-8s28tv/static/js/2.04578128.chunk.js.map",
+    "index.html": "https://jshah3821.github.io/csb-8s28tv/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://jshah3821.github.io/csb-8s28tv/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.b0901594.chunk.css.map": "https://jshah3821.github.io/csb-8s28tv/static/css/main.b0901594.chunk.css.map",
+    "static/js/2.04578128.chunk.js.LICENSE.txt": "https://jshah3821.github.io/csb-8s28tv/static/js/2.04578128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e4488e.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.04578128.chunk.js",
+    "static/css/main.b0901594.chunk.css",
+    "static/js/main.aa38a568.chunk.js"
+  ]
+}
